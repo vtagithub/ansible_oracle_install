@@ -2,4 +2,4 @@
 Ansible playbook to install oracle 
 
 
-Make sure to download oracle Binary and upload it to /tmp directoy
+make sure to download Oracle Database 19c (19.3) for Linux x86-64  on  https://www.oracle.com/dz/database/technologies/oracle19c-linux-downloads.html
